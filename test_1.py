@@ -1,6 +1,12 @@
 # execute in terminal
 # hallo
 
+
+# To Dos
+# 1. Metadaten ermitteln, Akkumulation wie viele Stundne pro Schritt
+# 2. stündliche Raster berechnen
+# 3. Resample des Rasters auf 1km2 respektive 2km2
+
 # from .cfcoords import translate_coords
 # from .datamodels import CDS, ECMWF
 import xarray as xr
